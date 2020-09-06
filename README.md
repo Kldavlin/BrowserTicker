@@ -19,3 +19,7 @@ Scroll Speed
 
 
 In the Configuration file there are instructions and examples on how to change these settings.
+
+If you enjoy using this application consider buying me a beer :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&hosted_button_id=FSVS59CVZXR6C)
