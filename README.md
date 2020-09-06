@@ -19,8 +19,3 @@ Scroll Speed
 
 
 In the Configuration file there are instructions and examples on how to change these settings.
-
-
-If you enjoy this application consider donating to buy me a drink ;)
-
-paypal.me/kldavlin
