@@ -1,5 +1,6 @@
 Run the .msi file it will install by default into the 'C:\Program Files (x86)\SingularStudios\OverlayTicker' directory.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CONFIGURATION
 
 Navigate to the following directory 'C:\Program Files (x86)\SingularStudios\OverlayTicker\Configuration'
@@ -20,7 +21,9 @@ Scroll Speed
 
 In the Configuration file there are instructions and examples on how to change these settings.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 KNOWN ISSUES:
+
 If you click off your Chrome window the overlay will disapear until you reclick the Chrome window. (note that the timer will still tick for changing the message)
 
 Make sure you have in focus the Chrome window that you would like to display the overlay on after starting the program. If you click another window it will only appear on that window.
@@ -29,6 +32,8 @@ Share your whole monitor when using this application as the overlay exists on th
 
 
 If you run into issues please feel free to put in the issues the bug that you see and I will prioritize it and attempt to fix it.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you enjoy using this application consider buying me a beer :)
 
